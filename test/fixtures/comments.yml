@@ -2,8 +2,8 @@
 
 one:
   post_id: 1
-  bosy: MyText
+  body: MyText
 
 two:
   post_id: 1
-  bosy: MyText
+  body: MyText
